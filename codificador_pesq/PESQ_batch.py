@@ -22,7 +22,7 @@ while(q<=50):
 print len(output)
 print output
 archivo.write(output)
-archivo.write("\n")
+archivo.write('\n')
 
 promedio=sum(output)/len(output)
 print "\nEl promedio es\n"
