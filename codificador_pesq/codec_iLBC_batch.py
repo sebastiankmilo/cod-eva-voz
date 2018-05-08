@@ -1,7 +1,7 @@
 import subprocess
 
-porcen=5
-arch_orig="hombres_1"
+porcen=90
+arch_orig="m1"
 q=1
 
 while(q<=50):
